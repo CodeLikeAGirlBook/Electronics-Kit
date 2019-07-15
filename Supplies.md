@@ -26,6 +26,6 @@ I’ve made us a wishlist on sparkfun.com. [Click here to go to it](https://www.
 Choose the individual items you want by clicking "Add to cart" for each one. 
 If you want everything on the list, find the big red button near the bottom that reads: "Add all this stuff to my cart", and click that. 
 
-If you'd prefer to use amazon.com, I'm in the process of creating a list there as well. 
+If you'd prefer to use amazon.com, stay tuned, I'm in the process of creating a list there as well. 
 
 Ps. this isn't on the official list, but that virtual Sense-hat from Chapter 5? [Here's the real thing](https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S).
