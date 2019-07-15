@@ -6,6 +6,8 @@ There are several options for finding these. There may be a store near you that 
 
 ## Chapter 2
 Option 1: Purchase a Raspberry Pi, a micro-SD card, and scavenge the rest ADD LINKS. Sources are Amazon.com. adafruit.com, sparkfun.com and elsewhere. The current model is 4. The book’s illustrations are of Raspberry Pi 3, and it’s just fine to use this older model; just get one that comes with wifi capability.
+
+These links come from Amazon.com. 
  
  [Raspberry Pi 3 Model B](https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8)
  
