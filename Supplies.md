@@ -1,7 +1,7 @@
 # Finding Supplies for Code Like a Girl
-There's a bit of a scavenger hunt involved in finding the materials you'll need. One day, perhaps, there will be a kit with EXACTLY what you need, and when that happens, you'll definitely find the link here. Until thne, I made you some links and lists. 
+There's a bit of a scavenger hunt involved in finding the materials you'll need. One day, perhaps, there will be a kit with EXACTLY what you need, and when that happens, you'll definitely find the link here. Until then, I made you some links and lists. 
 
-There are several options for finding these. There may be a store near you that has some of the pieces. Your best bet is online, and some good options are sparkfun.com, adafruit.com, amazon.com. Banggood.com and alibaba.com are possible sites too. , though it may take  longer to get the parts shipped from China. 
+There are several options for finding these. There may be a store near you that has some of the pieces. Your best bet is online, and some good options are sparkfun.com, adafruit.com, amazon.com. Banggood.com and alibaba.com are possible sites too, though it may take  longer to get the parts shipped from China. 
 
 
 ## Chapter 2
@@ -29,4 +29,4 @@ If you want everything on the list, find the big red button near the bottom that
 
 If you'd prefer to use amazon.com, stay tuned, I'm in the process of creating a list there as well. 
 
-Ps. this isn't on the official list, but that virtual Sense-hat from Chapter 5? [Here's the real thing](https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S).
+PS this isn't on the official list, but that virtual Sense-hat from Chapter 5? [Here's the real thing](https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S).
