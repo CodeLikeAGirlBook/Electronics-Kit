@@ -13,5 +13,6 @@ Option 2: Purchase [something like this, which is more expensive but has all the
 ## Chapter 4 and 5 
 
 I’ve made us a wishlist on sparkfun.com. [Click here to go to it](https://www.sparkfun.com/wish_lists/152381). 
-Choose the items you need, and then click this button: 
+Choose the individual items you want by clicking "Add to cart" for each one. 
+If you want everything on the list, find the big red button near the bottom that reads: "Add all this stuff to my cart", and click that. 
 
