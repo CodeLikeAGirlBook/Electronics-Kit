@@ -5,7 +5,7 @@ There are several options for finding these. There may be a store near you that 
 
 
 ## Chapter 2
-First option: Purchase a Raspberry Pi, a micro-SD card, and scavenge the rest ADD LINKS. Sources are Amazon.com. adafruit.com, sparkfun.com and elsewhere. The current model is 4. The book’s illustrations are of Raspberry Pi 3, and it’s just fine to use this older model; just get one that comes with wifi capability.
+First option: Purchase a Raspberry Pi, a micro-SD card, and scavenge the rest. Sources are Amazon.com. adafruit.com, sparkfun.com and elsewhere. The current model is 4. The book’s illustrations are of Raspberry Pi 3, and it’s just fine to use this older model; just get one that comes with wifi capability.
 
 These links come from Amazon.com. 
  
