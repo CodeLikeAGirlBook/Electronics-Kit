@@ -24,4 +24,4 @@ If you want everything on the list, find the big red button near the bottom that
 
 If you'd prefer to use amazon.com, I'm in the process of creating a list there as well. 
 
-Ps this isn't on the official list, but that virtual Sense-hat from Chapter 5? ![Here's the real thing:](https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S)
+Ps this isn't on the official list, but that virtual Sense-hat from Chapter 5? [Here's the real thing:](https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S)
