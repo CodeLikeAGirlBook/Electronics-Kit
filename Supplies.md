@@ -5,7 +5,7 @@ There are several options for finding these. There may be a store near you that 
 
 
 ## Chapter 2
-Option 1: Purchase a Raspberry Pi, a micro-SD card, and scavenge the rest ADD LINKS. Sources are Amazon.com. adafruit.com, sparkfun.com and elsewhere. The current model is 4. The book’s illustrations are of Raspberry Pi 3, and it’s just fine to use this older model; just get one that comes with wifi capability.
+First option: Purchase a Raspberry Pi, a micro-SD card, and scavenge the rest ADD LINKS. Sources are Amazon.com. adafruit.com, sparkfun.com and elsewhere. The current model is 4. The book’s illustrations are of Raspberry Pi 3, and it’s just fine to use this older model; just get one that comes with wifi capability.
 
 These links come from Amazon.com. 
  
@@ -18,9 +18,10 @@ These links come from Amazon.com.
  [Micro SD card, 32gb, preloaded](https://www.amazon.com/Raspberry-Pi-32GB-Preloaded-NOOBS/dp/B01LXR6EOA)
  
 
-Option 2: Purchase [something like this, which is more expensive but has all the parts you’ll need:](https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B06XW6VX1H/ref=asc_df_B06XW6VX1H/?tag=hyprod-20&linkCode=df0&hvadid=309751315916&hvpos=1o4&hvnetw=g&hvrand=13937989184990486049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007322&hvtargid=pla-571127897193&psc=1&tag=&ref=&adgrpid=67183599252&hvpone=&hvptwo=&hvadid=309751315916&hvpos=1o4&hvnetw=g&hvrand=13937989184990486049&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007322&hvtargid=pla-571127897193)
+Second option: Purchase a full kit,[try something like this, which is more expensive but has all the parts you’ll need:](https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B06XW6VX1H/ref=asc_df_B06XW6VX1H/?tag=hyprod-20&linkCode=df0&hvadid=309751315916&hvpos=1o4&hvnetw=g&hvrand=13937989184990486049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007322&hvtargid=pla-571127897193&psc=1&tag=&ref=&adgrpid=67183599252&hvpone=&hvptwo=&hvadid=309751315916&hvpos=1o4&hvnetw=g&hvrand=13937989184990486049&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007322&hvtargid=pla-571127897193)
 
 ## Chapters 4 and 5 
+For these chapters you'll need everything from a string of micro-LED lights, copper tape, coin batteries and conductive thread (Chapter 4) to a breadboard, LEDs, jumper wires and a PIR motion sensor(Chapter 5). 
 
 I’ve made us a wishlist on sparkfun.com. [Click here to go to it](https://www.sparkfun.com/wish_lists/152381). 
 Choose the individual items you want by clicking "Add to cart" for each one. 
